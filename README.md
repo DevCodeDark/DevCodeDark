@@ -1,4 +1,4 @@
-### ¡Hola a todos! Mi nombre es Bill Dietrick
+### ¡Hola a todos! Mi nombre es Bill Dietrick 👽
 
 ## Mis estadísticas son:
 
