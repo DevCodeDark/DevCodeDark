@@ -2,4 +2,4 @@
 
 ## Mis estadísticas son:
 
-[![Mis estadísticas son:](https://github-readme-stats.vercel.app/api?username=DevCodeDark)]
+[![Mis estadísticas son:](https://github-readme-stats.vercel.app/api?username=DevCodeDark&show_icons=true&theme=dark)]
