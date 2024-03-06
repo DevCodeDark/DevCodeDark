@@ -41,7 +41,18 @@
     
     - Experiencia con proyectos y cursos relacionados.
 
+### 🌱 Intereses
 
+Me llama la atención el mundo del desarrollo de aplicaciones web y móviles, así como el backend y frontend. Estoy constantemente explorando **tecnologías emergentes** para ampliar mi conocimiento y habilidades.
+
+### 🚀 Proyectos
+
+- [Página Freelancer]()
+
+### 📫 Contáctame
+
+- **LinkedIn:** [Bill Reategui](https://www.linkedin.com/in/bill-dietrick-reategui-panduro-b21b21297)
+- **Facebook:** [Bill Reategui](https://www.facebook.com/DevCodeDark/)
 
 ### 📊 Mis estadísticas son:
 
