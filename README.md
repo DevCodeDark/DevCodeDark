@@ -15,9 +15,9 @@
 
 - **Lenguajes de Programación:**
 
-    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="22px" style="vertical-align:middle; margin-right:5px;">Java</p>
-    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:5px">JavaScript</p>
-    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:5px">Python</p>
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="22px" style="vertical-align:middle; margin-right:10px;">Java</p>
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:10px">JavaScript</p>
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:10px">Python</p>
 
 
 
