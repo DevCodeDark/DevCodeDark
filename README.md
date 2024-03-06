@@ -1,4 +1,25 @@
-### ¡Hola a todos! Mi nombre es Bill Dietrick 👽
+## Hola 👋, soy Bill
+
+*Estudiante de Ingeniería de Sistemas e Informática de la Universidad Nacional de San Martín, actualmente cursando el V ciclo*
+
+###  📚  Educación
+
+- **Universidad Nacional de San Martín** (📍Tarapoto, Perú)
+- Estudiante de Ingeniería de Sistemas e Informática
+
+###  💼 Meta
+
+- **Full Stack Development**
+
+###  🛠️ Habilidades Técnicas
+
+- **Lenguajes de Programación:**
+
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg" alt="Java" width="22px" style="vertical-align:middle; margin-right:5px;">Java</p>
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:5px">JavaScript</p>
+    - <p><img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/python.svg" alt="JavaScript" width="22px" style="vertical-align:middle; margin-right:5px">Python</p>
+
+
 
 ## Mis estadísticas son:
 
@@ -9,4 +30,4 @@
 - 🏷️Java[<img align='left' alt='Java' width='22px' src='https://raw.githubusercontent.com/jmnote/z-icons/master/svg/java.svg'>][Java]!
 
 
-[Java]: https://netbeans.apache.org/front/main/ 
+[Java]: https://netbeans.apache.org/front/main/
