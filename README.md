@@ -2,14 +2,20 @@
 
 *Estudiante de Ingeniería de Sistemas e Informática de la Universidad Nacional de San Martín, actualmente cursando el V ciclo*
 
+---
+
 ###  📚  Educación
 
 - **Universidad Nacional de San Martín** (📍Tarapoto, Perú)
 - Estudiante de Ingeniería de Sistemas e Informática
 
+---
+
 ###  💼 Meta
 
 - **Full Stack Development**
+
+---
 
 ###  🛠️ Habilidades Técnicas
 
@@ -41,21 +47,32 @@
     
     - Experiencia con proyectos y cursos relacionados.
 
+---
+
 ### 🌱 Intereses
 
 Me llama la atención el mundo del desarrollo de aplicaciones web y móviles, así como el backend y frontend. Estoy constantemente explorando **tecnologías emergentes** para ampliar mi conocimiento y habilidades.
 
+---
+
 ### 🚀 Proyectos
 
 - [Página Freelancer]()
+
+---
 
 ### 📫 Contáctame
 
 - **LinkedIn:** [Bill Reategui](https://www.linkedin.com/in/bill-dietrick-reategui-panduro-b21b21297)
 - **Facebook:** [Bill Reategui](https://www.facebook.com/DevCodeDark/)
 
+---
+
 ### 📊 Mis estadísticas son:
 
 ![Mis estadísticas son:](https://github-readme-stats.vercel.app/api?username=DevCodeDark&show_icons=true&theme=tokyonight)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevCodeDark&show_icons=true&theme=tokyonight)
+
+---
+¡Gracias por visitar mi perfil de GitHub! No dudes en contactarme para cualquier consulta o colaboración.
